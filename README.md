@@ -1,5 +1,10 @@
 # IoT / SSH-Telnet Honeypot Credential Wordlist
 
+## Findings & methodology
+
+Attack families, credential targeting, malware profile and defensive takeaways: [FINDINGS.md](FINDINGS.md)
+
+
 Real username & password guesses captured by a **Cowrie honeynet** (SSH + Telnet),
 deduplicated and frequency-ranked.
 
